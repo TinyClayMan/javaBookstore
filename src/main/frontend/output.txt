@@ -1,0 +1,4 @@
+
+> frontend@0.0.0 start /home/tinyclayman/IdeaProjects/javaBookstore/src/main/frontend
+> ng serve --proxy-config proxy-conf.json
+
